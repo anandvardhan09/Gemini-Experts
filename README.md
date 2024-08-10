@@ -8,4 +8,6 @@ Nutrition Expert: By simply uploading an image of food, users can instantly rece
 
 PDF Expert: This Retrieval-Augmented Generative App (RAG) allows users to upload a PDF document and ask any question related to its content. The app uses the Gemini API to efficiently scan, analyze, and generate precise answers, making it easy to extract valuable information without manually searching through the document.
 
+YouTube Transcripter: Simply provide a YouTube video link, and this mini-app will generate a comprehensive transcript and detailed notes, making it easy to summarize and understand the content without watching the entire video.
+
 By integrating the Gemini API, Gemini Expert transforms everyday tasks into seamless, automated processes, saving users time and providing accurate, AI-driven results tailored to their specific needs.
